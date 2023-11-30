@@ -1,1 +1,1 @@
-# OpenGL_Project_DIU_Mosque
+#OpenGl Project in C++ | DIU Central Mosque 
